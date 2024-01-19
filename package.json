@@ -1,0 +1,18 @@
+{
+    "name":"cal5G8",
+    "version":"0.1.1",
+    "main":"calcs",
+    "repository":{
+        "type":"gift",
+        "url":"https://github.com/Tsatyadevi/mern"
+    },
+    "keyword":[
+        "calc",
+        "calcpsk","psk"
+    ],
+    "dependencies":{},
+    "engines":{
+        "node":"*"
+    
+    }
+}
